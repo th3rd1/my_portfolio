@@ -1,0 +1,1 @@
+A continuous personal project to track my created works, while being practical experience in continuous frontend and backend dev. Eventually this code may be hosted by me as a way to find me and my works, but as of the initial commit this will continue to just be WIP.
