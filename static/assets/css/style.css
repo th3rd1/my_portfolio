@@ -9,11 +9,13 @@
 .horizontal-list li {
   margin-top: 40px;
   margin-right: 35px;
+  margin-bottom: 25px;
 }
 
 .a {
   text-decoration: none;
   color: white;
+  position: absolute
 }
 
 .rounded-circle {
@@ -37,5 +39,4 @@ a:hover {
 li:hover {
   transition: .2s ease-out;
   font-size:1.25em;
-
 }
