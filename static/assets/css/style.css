@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.horizontal-list {
+  display: flex;
+  list-style: none;
+  text-align: center
+}
+
+.horizontal-list li {
+  margin-top: 40px;
+  margin-right: 35px;
+}
+
+.a {
+  text-decoration: none;
+  color: white;
+}
+
+.rounded-circle {
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: CadetBlue;
+}
+
+li:hover {
+  transition: .2s ease-out;
+  font-size:1.25em;
+
+}
